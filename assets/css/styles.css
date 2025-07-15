@@ -1,0 +1,2 @@
+body { font-family: sans-serif; max-width: 400px; margin: 2rem auto; }
+li.completed { text-decoration: line-through; color: gray; }

@@ -1,0 +1,3 @@
+# Ignore macOS metadata, node modules, etc.
+.DS_Store
+node_modules/
